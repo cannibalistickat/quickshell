@@ -1,0 +1,3 @@
+module qs.Shell.Backend
+plugin shellbackend /home/alice/.config/quickshell/Shell/Backend
+classname ShellBackendPlugin
